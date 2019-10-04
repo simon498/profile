@@ -1,0 +1,16 @@
+.innerdiv{
+    background-color: #ffffff;
+    width: 70%;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px gray;
+    height: 20%;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    display: inline-flexbox;
+}
+body{
+    background-color: rgb(241, 248, 248);
+}
